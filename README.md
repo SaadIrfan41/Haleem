@@ -108,6 +108,7 @@ server/
 1.  **Install Dependencies** (Root aka Backend + Client)
     ```bash
     # Install backend deps
+    cd server
     npm install
     
     # Install client deps
